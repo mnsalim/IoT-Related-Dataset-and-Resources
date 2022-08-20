@@ -22,6 +22,7 @@ This project will list the publicly available datasets in IoT domain and other r
 | IOT HEALTHCARE SECURITY DATASET   | https://ieee-dataport.org/documents/iot-healthcare-security-dataset    |   2021 |  $ |
 | IOT NETWORK INTRUSION DATASET    | https://ieee-dataport.org/open-access/iot-network-intrusion-dataset    |   2019 |  various types of network attacks in Internet of Things (IoT) environment for academic purpose |
 | TCP FIN FLOOD AND ZBASSOCFLOOD DATASET    |https://ieee-dataport.org/documents/tcp-fin-flood-and-zbassocflood-dataset    |   2021 |   Development of an Internet of Things (IoT) Network Traffic Dataset with Simulated Attack Data. |
+|ABOUT IOT(INTERNET OF THINGS)|https://www.kaggle.com/datasets/mkthenaturelover/about-iotinternet-of-things?select=IOT+SERVICE+PROVIDED+COMPANIES.jpeg|2022| Some figure about IoT devices. Could be useful for presentation|
 
 
 
