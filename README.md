@@ -7,6 +7,7 @@ This project will list the publicly available datasets in IoT domain and other r
 
 | Dataset Name        | Link                      |   Pulished Year   | Description                                                                | 
 | ------------------- |:-------------------------:| -----------------:|:-------------------------------------------------------------------------------:|
+|CIC IoT Dataset 2022| https://www.unb.ca/cic/datasets/iotdataset-2022.html | 2022| generate a state-of-the-art dataset for profiling, behavioural analysis, and vulnerability testing of different IoT devices with different protocols|
 | Dataset of legitimate IoT data |https://www.data.gouv.fr/en/datasets/dataset-of-legitimate-iot-data/|August 8, 2022|used to identify anomalies and intrusions using machine learning algorithms and to improve existing detection models. Our dataset is available in two formats: pcap and csv|
 | EDGE-IIOTSET    | https://ieee-dataport.org/documents/edge-iiotset-new-comprehensive-realistic-cyber-security-dataset-iot-and-iiot-applications | 2022 |  new comprehensive realistic cyber security dataset of IoT and IIoT applications, called Edge-IIoTset|
 | ToN-IoT   | https://research.unsw.edu.au/projects/toniot-datasets      |   $ | The TON_IoT datasets are new generations of Industry 4.0/Internet of Things (IoT) and Industrial IoT (IIoT) datasets for evaluating the fidelity and efficiency of different cybersecurity applications based on Artificial Intelligence (AI), i.e., Machine/Deep Learning algorithms.|
