@@ -3,10 +3,11 @@ Readme CheatSHeet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsh
 # IoT-Related-Dataset-and-Resources
 This project will list the publicly available datasets in IoT domain and other resources that are required to do research in IoT domain
 
-## List of publicly available IoT datasets
+## List of publicly available IoT datasets: https://datasetsearch.research.google.com/search?query=iot&docid=L2cvMTF5N2I2dmx3MQ%3D%3D
 
 | Dataset Name        | Link                      |   Pulished Year   | Description                                                                | 
 | ------------------- |:-------------------------:| -----------------:|:-------------------------------------------------------------------------------:|
+|CIC IoT Dataset 2023| https://www.unb.ca/cic/datasets/iotdataset-2023.html| 2023| attacks are classified into seven categories, namely DDoS, DoS, Recon, Web-based, Brute Force, Spoofing, and Mirai|
 |CIC IoT Dataset 2022| https://www.unb.ca/cic/datasets/iotdataset-2022.html | 2022| generate a state-of-the-art dataset for profiling, behavioural analysis, and vulnerability testing of different IoT devices with different protocols|
 | Dataset of legitimate IoT data |https://www.data.gouv.fr/en/datasets/dataset-of-legitimate-iot-data/|August 8, 2022|used to identify anomalies and intrusions using machine learning algorithms and to improve existing detection models. Our dataset is available in two formats: pcap and csv|
 | EDGE-IIOTSET    | https://ieee-dataport.org/documents/edge-iiotset-new-comprehensive-realistic-cyber-security-dataset-iot-and-iiot-applications | 2022 |  new comprehensive realistic cyber security dataset of IoT and IIoT applications, called Edge-IIoTset|
